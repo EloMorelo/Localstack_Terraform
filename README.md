@@ -1,5 +1,5 @@
 # Localstack_Terraform
-Done on Win10
+Done on Win10 \
 Opening localstack without docker-compose (recommended) \
 docker pull localstack/localstack \
 docker run --rm -it -p 4566:4566 -p 4571:4571 localstack/localstack \
